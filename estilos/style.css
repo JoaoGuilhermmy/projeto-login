@@ -55,7 +55,11 @@ section#login > div#formulario{
     padding: 10px;
 }
 
-section#login > div#formulario > p{
+div#formulario > h1{
+    text-align: center;
+}
+
+div#formulario > p{
     padding: 4px;
 }
 
